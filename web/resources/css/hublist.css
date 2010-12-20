@@ -1,0 +1,28 @@
+/* main bottom toolbar with primary nave icons */
+/* this makes it look more iphone native */
+div.hl-bot-tbar.x-tabbar {
+background-image: -webkit-gradient(linear, 0% 0, 0% 100%, from(#666),
+	color-stop(0.02, #1F1F1F), 
+	color-stop(0.5, #212121), 
+	color-stop(0.51, #1A1A1A), to(black));
+	border-top: 1px solid #21272C;
+}
+
+/* container list styles */
+div.container-list-item {
+	height: 2.4em;
+}
+
+	/* icon to the left of each container */
+div.container-list-item img.container-icon {
+	margin-left: 3px;
+	margin-right: 20px;
+	float: left;
+}
+
+	/* list item text */
+div.container-list-item span {
+	display: block;
+	padding-top: 17px;
+	float: left;
+}
