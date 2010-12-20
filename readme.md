@@ -12,10 +12,10 @@ The current code base is targeting iPhone and will run as a native IOS applicati
 The mobile edition is in the early development stages with efforts focused on core functionality and design. The desktop edition is available as an "early beta" app and [downloadable](http:://hublistapp.com) as a native Mac, Windows or Linux app. The desktop version will be re-factored and open sourced when Ext JS 4 is released.
 
 ### Links
-[Main Website - http://hublistapp.com](http://hublistapp.com)
-[Tickets & Roadmap on Lighthouse](http://nimbleapps.lighthouseapp.com/projects/66177-hub-list-mobile/milestones)
-API Documentation - coming soon (powered by [ext-doc](http://code.google.com/p/ext-doc/))
-[End User Feedback & Discussion](http://getsatisfaction.com/nimbleapps)
+[Main Website - http://hublistapp.com](http://hublistapp.com)  
+[Tickets & Roadmap on Lighthouse](http://nimbleapps.lighthouseapp.com/projects/66177-hub-list-mobile/milestones)  
+API Documentation - coming soon (powered by [ext-doc](http://code.google.com/p/ext-doc/))  
+[End User Feedback & Discussion](http://getsatisfaction.com/nimbleapps)  
 
 ### Developer Discussion
 Eventually I'd like to setup a developer discussion forum. For now feel free to reach out via twitter [@hublistapp](http://twitter.com/hublistapp).
