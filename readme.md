@@ -2,7 +2,7 @@ Hub List - Mobile
 ============
 Welcome to the GitHub repo for Hub List mobile edition! [Hub List](http://hublistapp.com) is an open source GTD style productivity application written in JavaScript. 
 
-!(http://hublistapp.com/images/wiki/iphone-folders-lists.png)
+![iPhone Home Screen](http://hublistapp.com/images/wiki/iphone-folders-lists.png)
 
 
 ### Technologies
